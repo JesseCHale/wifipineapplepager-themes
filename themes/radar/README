@@ -1,0 +1,9 @@
+Editing these files here within /lib/pager/themes/ will have no effect. Do not place new themes here.
+
+If you would like to modify the theme, create a new one by copying this to /root/themes with a new directory name
+
+cp -r /lib/pager/themes/wargames /root/themes/mycooltheme
+
+Find more information at docs.hak5.org
+
+Some graphics / inspiration from: Vecteezy.com
